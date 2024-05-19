@@ -63,6 +63,22 @@ flutter:
     - assets/images/alkid2.png
     - assets/images/alkid3.png
     - assets/images/alkid4.png
+    - assets/images/museum1.png
+    - assets/images/museum2.png
+    - assets/images/museum3.png
+    - assets/images/museum4.png
+    - assets/images/pantai1.png
+    - assets/images/pantai2.png
+    - assets/images/pantai3.png
+    - assets/images/pantai4.png
+    - assets/images/taman1.png
+    - assets/images/taman2.png
+    - assets/images/taman3.png
+    - assets/images/taman4.png
+    - assets/images/water1.png
+    - assets/images/water2.png
+    - assets/images/water3.png
+    - assets/images/water4.png
 
   fonts:
     - family: Lobster
